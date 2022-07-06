@@ -5,7 +5,7 @@
 # Next build dir
 .next/
 
-js/*
+js/config.js
 
 ### Node ###
 # Logs
